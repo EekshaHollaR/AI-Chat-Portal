@@ -106,7 +106,7 @@ Add your screenshots of the UI here (dashboard, chat, semantic query, summary vi
 
 ## 🏗️ Project Structure
 
-See the `/backend`, `/frontend`, and `/architecture-design.md` for more details about the project layout and code organization.
+See the `/backend`, `/frontend`, and `/architecture.md` for more details about the project layout and code organization.
 
 ## 🤝 Contributing
 
@@ -117,8 +117,7 @@ See the `/backend`, `/frontend`, and `/architecture-design.md` for more details 
 
 ## 📞 Support
 
-If you get stuck, contact: devgods99@gmail.com. For documentation, check Swagger UI at `/api/docs/` or explore the codebase!
-
+If you get stuck, contact: eeksha5.rg@gmail.com.
 ## 📄 License
 
 MIT - do what you want for learning/sharing.
